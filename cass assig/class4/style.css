@@ -1,0 +1,24 @@
+.list{
+	margin: auto;
+	width:50%;
+	
+}
+.side{
+	width:49%;
+	float:left;
+	background:#127F81;	
+	border: solid black;
+}
+.side:hover{
+	background:#0B2058;
+	color:white;
+	transform: scale(1.5);
+}
+.side ul:hover{
+	background:#08D4F5;
+	color:black;
+}
+.side ul li:hover{
+	background:#D5FFFC;
+	color:black;
+}

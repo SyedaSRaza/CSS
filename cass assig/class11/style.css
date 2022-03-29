@@ -1,0 +1,17 @@
+.ball{
+	height:100px;
+	width:100px;
+	border-radius:100%;
+	background: radial-gradient(circle at 65% 15%,white 1px, #ffe5fc 3%, #b55c96 60%, #ffc3f7 100%);
+	box-shadow: -20px 400px 100px grey;	
+	margin:auto;
+	position:relative;
+	animation-name:bounce;
+	animation-iteration-count: infinite;
+	animation-duration: 5s;
+}
+@keyframes bounce{
+  0% { top: 0; left: 0; }
+  50% {top:515px;}
+  100%{ top: 0; left: 0; }
+}

@@ -1,0 +1,19 @@
+body{
+	border: 4mm ridge #E7E6E6;
+    margin-left: 350px;
+    margin-right: 350px;
+	padding-right: 50px;
+	padding-left:50px;
+	box-sizing:border-box;	
+}
+h1{
+	color: red;
+	border-bottom:dashed red;
+	display: inline-block;
+	margin-left: 38%;
+	box-sizing: border-box;
+}
+p{
+	border: dashed orange 5px;;
+	padding: 30px;	
+}

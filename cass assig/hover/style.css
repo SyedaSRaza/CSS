@@ -1,0 +1,29 @@
+h1{
+	text-align:center;
+}
+.sstyle{
+	background:#dcdcdc;
+	margin-right: 70%;
+	text-align: center;
+}
+.dstyle{
+	padding:30px;
+}
+a.l1:hover, a.l1:active {
+	color: #5B0101;
+}
+a.l2:hover, a.l2:active {
+	font-size: 150%;
+}
+a.l3:hover, a.l3:active {
+	background: #D6ADFF;
+}
+a.l4:hover, a.l4:active {
+	font-family: monospace;
+}
+a.l5:visited, a.l5:link {
+	text-decoration: none;
+}
+a.l5:hover, a.l5:active {
+	text-decoration: underline;
+}

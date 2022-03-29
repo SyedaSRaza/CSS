@@ -1,0 +1,22 @@
+section{
+	width:800px;
+	height:800px;
+	border: solid;
+	margin:auto;
+	
+}
+div:nth-child(odd) > span:nth-child(odd){
+	background:black;
+}
+div:nth-child(even) > span:nth-child(even){
+	background:black;
+}
+div{
+	float:left;
+	width:100px;
+}
+span{
+	width:100px;
+	height:100px;
+	float:left;
+}

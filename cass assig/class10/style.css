@@ -1,0 +1,15 @@
+.ball{
+	height: 100px;
+	width:100px;
+    border-radius: 100%;  
+	background: radial-gradient(circle at 65% 15%,white 1px, #c76fbd 3%, #1b0529 60%, #ff9c90 100%);
+	box-shadow: -20px 400px 100px grey;	
+	transition: all 0.5s ease-in-out;
+	}
+section{
+	height:600px;
+}
+.ball:hover{
+	transform: translate(280px, 372px);
+	box-shadow: 20px 0px 74px rgba(0, 0, 0, 1);
+}

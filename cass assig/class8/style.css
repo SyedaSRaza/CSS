@@ -1,0 +1,27 @@
+section{
+	margin:10px;
+}
+.wrp-style{
+	width:190px;
+	height:190px;
+	border-radius:100%;
+	display:block;
+	margin-bottom:10px;
+	overflow:hidden;
+}
+section ul{
+	list-style:none;
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+	max-width:1220px;
+}
+h3{
+	text-align:center;
+}
+ul li{
+	margin:10px;
+}
+span{
+	padding:50px;
+}
